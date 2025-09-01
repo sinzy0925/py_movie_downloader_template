@@ -43,16 +43,16 @@ gmailアドレスを連絡してください。
 
 ### ステップ3：魔法の箱に「アプリの素」をセットしよう！ (所要時間: 約3分)
 
-まずは、私があらかじめ用意した**「アプリの素」**が詰まったzipファイルを、あなたのCloud Shellにアップロードしましょう。
-このzipファイルには、アプリの設計図や、Googleに挨拶するための**「身分証明書 (`credentials.json`)」**など、必要なものが全て入っています。
 
 *   **作業内容:**
-    1.  まず、以下のリンクから`py_movie_donwloader_template.zip`というファイルを、あなたのパソコンにダウンロードします。
+    1. まずは、私があらかじめ用意した **「アプリの素」** が詰まったzipファイルを、あなたのCloud Shellにアップロードしましょう。
+    このzipファイルには、アプリの設計図や、Googleに挨拶するための **「身分証明書 (`credentials.json`)」** など、必要なものが全て入っています。
+    2. 以下のリンクから`py_movie_donwloader_template.zip`というファイルを、あなたのパソコンにダウンロードします。
     [py_movie_donwloader_template.zip ダウンロード](https://github.com/sinzy0925/py_movie_downloader_template/raw/refs/heads/main/img/py_movie_downloader_template.zip)
 
-    2.  次に、Cloud Shellを開き、画面右上の**さらに表示メニュー（︙）** から「**アップロード**」を選択して、今ダウンロードした`py_movie_donwloader_template.zip`をアップロードします。
+    3.  次に、Cloud Shellを開き、画面右上の**さらに表示メニュー（︙）** から「**アップロード**」を選択して、今ダウンロードした`py_movie_donwloader_template.zip`をアップロードします。
 
-    3.  最後に、以下のコマンドを実行して、zipファイルを解凍（展開）し、準備を完了させます。
+    4.  最後に、以下のコマンドを実行して、zipファイルを解凍（展開）し、準備を完了させます。
         ```bash
         unzip py_movie_donwloader_template.zip && cd py_movie_donwloader_template
         ```
