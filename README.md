@@ -33,10 +33,12 @@ gmailアドレスを連絡してください。
     ```bash
     https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
     ```
-    3. クラウドシェルの認証が表示されたら、右下の認証をクリックします
+    3. クラウドシェルの認証が表示されたら、右下の認証をクリックします。
     ![認証](img/cloudshell1.png)
 
-    4. この画面がクラウドシェルです
+    4. この画面がクラウドシェルです。　
+        画面の上部をエディター　
+        下部をターミナルと呼びます。
     ![cloudshell](img/cloudshell2.png)
 
 ---
@@ -52,10 +54,10 @@ gmailアドレスを連絡してください。
 
     3.  次に、Cloud Shellを開き、画面右上の**さらに表示メニュー（︙）** から「**アップロード**」を選択して、今ダウンロードした`py_movie_donwloader_template.zip`をアップロードします。
 
-    4.  最後に、以下のコマンドを実行して、zipファイルを解凍（展開）し、準備を完了させます。
-        ```bash
-        unzip py_movie_donwloader_template.zip && cd py_movie_donwloader_template
-        ```
+    4.  最後に、クラウドシェルのターミナルで、以下のコマンドを実行して、zipファイルを解凍（展開）し、準備を完了させます。
+    ```bash
+    unzip py_movie_donwloader_template.zip && cd py_movie_donwloader_template
+    ```
 
 > **ポイント：**
 > この`unzip`というコマンドは、「魔法の箱を開けて、中身を取り出して！」というおまじないのようなものです。これを実行するだけで、アプリ作りの準備が全部整います。
@@ -131,7 +133,8 @@ gmailアドレスを連絡してください。
     python m01_google_drive_manager.py
     ```
 >    ヒント: 
->    gemini-cliを終了せずに、gemini-cliに実行させる方法もあります。処理が遅いので上記では自分でアプリを実行しています。gemini-cliに実行してもらう、命令方法「m01_google_drive_manager.pyを実行して」
+>    gemini-cliを終了せずに、gemini-cliに実行させる方法もあります。処理が遅いので上記では自分でアプリを実行しています。gemini-cliに実行してもらう命令方法はこれです。
+「m01_google_drive_manager.pyを実行して」
 
 ---
 
