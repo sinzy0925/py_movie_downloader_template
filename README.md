@@ -48,7 +48,7 @@ gmailアドレスを連絡してください。
 
 *   **作業内容:**
     1.  まず、以下のリンクから`py_movie_donwloader_template.zip`というファイルを、あなたのパソコンにダウンロードします。
-        *   **リンク:** `![py_movie_donwloader_template.zip](py_movie_donwloader_template.zip)`
+        *   **リンク:** `[py_movie_donwloader_template.zip ダウンロード](https://github.com/sinzy0925/py_movie_downloader_template/raw/refs/heads/main/img/py_movie_downloader_template.zip)`
     2.  次に、Cloud Shellを開き、画面右上の**その他メニュー（︙）**から「**アップロード**」を選択して、今ダウンロードした`py_movie_donwloader_template.zip`をアップロードします。
     3.  最後に、以下のコマンドを実行して、zipファイルを解凍（展開）し、準備を完了させます。
         ```bash
