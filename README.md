@@ -33,7 +33,8 @@ gmailアドレスを連絡してください。
 https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ```
 
-<img src="img/cloudshell1" alt="クラウドシェル" width="500">
+![代替テキスト](img/cloudshell1.png)
+![代替テキスト](img/cloudshell2.png)
 
 ---
 
