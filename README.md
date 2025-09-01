@@ -33,6 +33,8 @@ gmailアドレスを連絡してください。
 https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ```
 
+<img src="img/cloudshell1" alt="クラウドシェル" width="500">
+
 ---
 
 ### ステップ3：魔法の箱に「アプリの素」をセットしよう！ (所要時間: 約3分)
