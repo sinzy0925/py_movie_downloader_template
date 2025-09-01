@@ -169,5 +169,22 @@ gmailアドレスを連絡してください。
     3. スクロールして、py_movie_donwloader_templateをクリックします。
     ![openfolder2](img/openfolder2.png)
     4. エディタ画面が開くと、以下を確認してください。
+    - py_movie_donwloader_templateが開かれていること。
+    - env_templateがあること。
     ![openfolder3](img/openfolder3.png)
+    5. env_templateをクリックして、上記ステップ9でコピーしたAPIキーを貼り付け、「Ctrl + s」を押します。
+    ```bash
+    GOOGLE_API_KEY_1="apiキーを貼り付ける場所"
+    ```
+    6. この状態では、gemini-apiがapiキーを読み込めないので、読み込めるように設定します。
+    ```bash
+    cp env_template .env
+    ```
+    7. 動画ファイルを音声ファイルに変換し、４分単位に分割するツールffmpegをインストールします。
+    ```bash
+    sudo apt-get update
+    sudo apt-get install -y ffmpeg
+    ```
+
+
 
