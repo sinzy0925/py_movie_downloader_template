@@ -27,14 +27,16 @@ gmailアドレスを連絡してください。
 ---
 
 ### ステップ2：Google cloud shell にアクセスしよう！ (所要時間: 約3分)
-ステップ1で主催者に連絡した、gmailアドレスでログインしているブラウザで行います。
+*   **作業内容:**
+    1. ステップ1で主催者に連絡した、gmailアドレスでログインしているブラウザで行います。
 下記URLをあなたのブラウザで開いてください。
 ```bash
 https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ```
+    2. クラウドシェルの認証が表示されたら、右下の認証をクリックします
+![認証](img/cloudshell1.png)
 
-![代替テキスト](img/cloudshell1.png)
-![代替テキスト](img/cloudshell2.png)
+![cloudshell](img/cloudshell2.png)
 
 ---
 
