@@ -81,6 +81,7 @@ https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ---
 
 ### ステップ5：バイブコーディング前の確認作業をしよう！ (所要時間: 約1分)
+*   **作業内容:**
     1. 以下のコマンドを入力して、エンターキーを押してください。
         ```bash
         python m01_google_drive_manager.py
