@@ -168,3 +168,6 @@ gmailアドレスを連絡してください。
     ![openfolder1](img/openfolder1.png)
     3. スクロールして、py_movie_donwloader_templateをクリックします。
     ![openfolder2](img/openfolder2.png)
+    4. エディタ画面が開くと、以下を確認してください。
+    ![openfolder3](img/openfolder3.png)
+
