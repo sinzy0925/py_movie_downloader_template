@@ -91,6 +91,7 @@ https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ---
 
 ### ステップ6：バイブコーディングの準備をしよう！ (所要時間: 約3分)
+*   **作業内容:**
 
     1. 今回は非常に簡単な例でバイブコーディングします。
     2. まず、自分のgoogleドライブをブラウザで開き、フォルダを作成します。
@@ -102,6 +103,7 @@ https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ---
 
 ### ステップ7：gemini-cliを使って、バイブコーディングしよう！ (所要時間: 約3分)
+*   **作業内容:**
     1.  以下のコマンドでgemini を起動します
         ```bash
         gemini
@@ -114,6 +116,7 @@ https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ---
 
 ### ステップ8：gemini-cliを終了して、アプリを実行します。 (所要時間: 約3分)
+*   **作業内容:**
     1. gemini-cliを終了しますので、「Ctrl + c」を数回入力してください。
     2. 以下のコマンドを入力して、アプリを実行します。
     ```bash
@@ -124,10 +127,15 @@ https://shell.cloud.google.com/?hl=ja&fromcloudshell=true&show=ide%2Cterminal
 ---
 
 ### ステップ9：[オプション作業]　全てのアプリを自動実行して、動画ファイルから文字起こししてマガジンを作ります。
+*   **作業内容:**
     全てのアプリを実行するには、更にいくつか作業が必要です。
     1. Google ai studio で、geminiのAPIキーを取得します。
     ```bash
     https://aistudio.google.com/app/apikey
     ```
+
+
+
+---
 
 
